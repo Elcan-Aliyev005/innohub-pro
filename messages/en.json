@@ -1,0 +1,50 @@
+{
+  "header": {
+    "center": "Center",
+    "about": "About us",
+    "about_description": "General information about InnoHub and its areas of activity.",
+    "vision": "Vision and mission",
+    "vision_description": "Our vision and mission — our future goals and core principles.",
+    "vacancies": "Vacancies",
+    "vacancies_description": "Available job opportunities and vacancies at InnoHub.",
+    "social": "Social responsibility",
+    "social_description": "Our social responsibility projects and contributions to society.",
+    "career_advice": "Career advice",
+    "career_advice_description": "Tips and useful resources for career development.",
+    "fields": "Training fields",
+    "areas": "Areas",
+    "fullstack": "Fullstack programming",
+    "fullstack_description": "A complete programming course covering both frontend and backend skills.",
+    "frontend": "Frontend",
+    "frontend_description": "Building web interfaces and working with modern UI/UX technologies.",
+    "backend": "Backend",
+    "backend_description": "Server-side programming, APIs, and working with databases.",
+    "graphic_design": "Graphic design",
+    "graphic_design_description": "Principles of visual design and creating creative graphic works.",
+    "digital_marketing": "Digital marketing",
+    "digital_marketing_description": "Marketing strategies in the digital environment and social media management.",
+    "data_analytics": "Data analytics",
+    "data_analytics_description": "Analyzing data and developing analytical skills for decision-making.",
+    "ui_ux_design": "UI/UX design",
+    "ui_ux_design_description": "Fundamentals of user experience and interface design.",
+    "robotics": "Robotics",
+    "robotics_description": "Practical knowledge in robotics and automation.",
+    "contact": "Contact",
+    "scholarship_programs": "Scholarship programs",
+    "education": "Education"
+  },
+  "home": {
+    "slogan": "Success is not accidental. Step forward with us. Write your own success story.",
+    "hero_line1": "Yaradıcılıq gələcəyin dilidir.",
+    "hero_line2": "Sən də bu dili öyrən",
+    "hero_line3": "InnoHub ilə dünyanı dəyiş.",
+    "cta_join": "Join us",
+    "cta_programs": "Explore programs",
+    "teachers": "Our Teachers",
+    "teachersSubtitle": "Knowledge, experience, and support all together"
+  },
+  "meta": {
+    "title": "InnoHub — Homepage",
+    "description": "InnoHub — a modern training platform."
+  }
+}

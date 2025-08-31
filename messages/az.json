@@ -1,0 +1,54 @@
+{
+  "header": {
+    "center": "Mərkəz",
+    "about": "Haqqımızda",
+    "about_description": "InnoHub haqqında ümumi məlumat və fəaliyyət istiqamətləri.",
+    "vision": "Vizyon və missiya",
+    "vision_description": "Vizyon və missiyamız — gələcək hədəflərimiz və əsas prinsiplərimiz.",
+    "vacancies": "Vakansiyalar",
+    "vacancies_description": "InnoHub-da mövcud iş imkanları və vakansiyalar.",
+    "social": "Sosial məsuliyyət",
+    "social_description": "Sosial məsuliyyət layihələrimiz və cəmiyyətə dəstəyimiz.",
+    "career_advice": "Karyera məsləhəti",
+    "career_advice_description": "Karyera inkişafı üçün məsləhətlər və faydalı resurslar.",
+    "fields": "Tədris sahələri",
+    "areas": "Sahələr",
+    "fullstack": "Fullstack proqramlaşdırma",
+    "fullstack_description": "Frontend və backend bacarıqlarını əhatə edən tam proqramlaşdırma kursu.",
+    "frontend": "Frontend",
+    "frontend_description": "Veb interfeyslərin qurulması və müasir UI/UX texnologiyaları ilə işləmək.",
+    "backend": "Backend",
+    "backend_description": "Server tərəfli proqramlaşdırma, API-lər və verilənlər bazası ilə işləmək.",
+    "graphic_design": "Qrafik dizayn",
+    "graphic_design_description": "Vizual dizayn prinsipləri və kreativ qrafik işlərin hazırlanması.",
+    "digital_marketing": "Rəqəmsal marketinq",
+    "digital_marketing_description": "Rəqəmsal mühitdə marketinq strategiyaları və sosial media idarəsi.",
+    "data_analytics": "Data analitika",
+    "data_analytics_description": "Məlumatların təhlili və qərarvermə üçün analitik bacarıqlar.",
+    "ui_ux_design": "UI/UX dizayn",
+    "ui_ux_design_description": "İstifadəçi təcrübəsi və interfeys dizaynının əsasları.",
+    "robotics": "Robototexnika",
+    "robotics_description": "Robototexnika və avtomatlaşdırma sahəsində praktiki biliklər.",
+    "contact": "Əlaqə",
+    "scholarship_programs": "Təqaüd proqramları",
+    "education": "Tədris"
+  },
+
+  "home": {
+    "slogan": "Success is not accidental. Step forward with us. Write your own success story.",
+    "hero_line1": "Yaradıcılıq gələcəyin dilidir.",
+    "hero_line2": "Sən də bu dili öyrən",
+    "hero_line3": "InnoHub ilə dünyanı dəyiş.",
+    "cta_join": "Join us",
+    "cta_programs": "Explore programs",
+    "teachers":"Müəllimlərimiz",
+      "teachersSubtitle": "Bilik, təcrübə və dəstək bir arada"
+
+
+  },
+
+  "meta": {
+    "title": "InnoHub — Ana səhifə",
+    "description": "InnoHub — müasir tədris platforması."
+  }
+}
